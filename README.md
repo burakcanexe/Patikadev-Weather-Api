@@ -1,3 +1,15 @@
+## About The Project
+This project was developed using [OpenWeather](https://openweathermap.org/) Api and [React.js](https://reactjs.org/).
+
+According to the user's desired location
+It is to list the eight daily weather report.
+
+<br/>
+<hr/>
+
+![Ekran Resmi 2022-06-22 12 38 26](https://user-images.githubusercontent.com/68536015/175003469-cfd57fe9-77a2-4982-abfc-b622f264b595.png)
+
+<br/>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +80,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+<br/>
+<hr/>
+
+# Thanks You To My Insructors
+
+- [Hakan YALÇINKAYA](https://www.linkedin.com/in/hakanyalcinkaya)
+
+- [Mehmet SEVEN](https://www.linkedin.com/in/sevenmehmet)
